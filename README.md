@@ -1,2 +1,2 @@
-# -PetsonalStore.github.io
+# PetsonalStore.github.io
  PetsonalStore
